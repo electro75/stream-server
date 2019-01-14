@@ -9,6 +9,12 @@
       "title": "Test Stream",
       "description": "Stream used to test the api",
       "id": 2
+    },
+    {
+      "title": "Creator",
+      "description": "Test stream by Sahil",
+      "userId": "106810126876040604360",
+      "id": 3
     }
   ]
 }
